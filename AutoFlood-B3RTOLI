@@ -20,7 +20,7 @@ async function enviarScript(scriptText){
 }
 
 enviarScript(`
-00000
+EU QUERO 
 
-THE END
+-------
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
