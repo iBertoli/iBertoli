@@ -21,6 +21,25 @@ async function enviarScript(scriptText){
 
 enviarScript(`
 EU QUERO 
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
+EU QUERO
 
--------
+
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
